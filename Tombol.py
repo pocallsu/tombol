@@ -1,3 +1,4 @@
+
 Volume UP + Q → Menampilkan Semua Tombol pada termux
 
 Volume Down + Q → Menampilkan Semua Tombol pada termux
